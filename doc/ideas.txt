@@ -1,0 +1,23 @@
+menu like morrowinds
+
+2d zelda like
+
+enermys has a invisible ring around then if player touches it will trigger agression
+
+morrowind dice rolling system
+
+minecraft-like crafting/building system
+
+kenshi ragdoll/npc like system
+
+mount&blade political system and world events
+
+top down (not to sure if we use arrow keys or WASD)
+
+F1 help menu
+
+RPG maker grathics
+
+SDL or SFML rendering
+
+midi music
