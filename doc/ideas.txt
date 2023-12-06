@@ -1,23 +1,23 @@
+~UI~
 menu like morrowinds
 
+
+~Gameplay~
 2d zelda like
+morrowind dice rolling system
+mount&blade political system and world events
+top down (not to sure if we use arrow keys or WASD)
 
 enermys has a invisible ring around then if player touches it will trigger agression
-
-morrowind dice rolling system
 
 minecraft-like crafting/building system
 
 kenshi ragdoll/npc like system
 
-mount&blade political system and world events
-
-top down (not to sure if we use arrow keys or WASD)
-
 F1 help menu
 
 RPG maker grathics
 
-SDL or SFML rendering
+SDL2 or SFML rendering
 
 midi music
