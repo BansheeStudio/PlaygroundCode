@@ -4,6 +4,7 @@
 #include<stdio.h>
 int main(void)
 {
-    printf("test");
+    printf("test\n");
+    printf("making a engine takes time\n");
     return(0);
 }
