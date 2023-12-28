@@ -3,7 +3,8 @@ menu like morrowinds
 
 
 ~Gameplay~
-2d zelda like
+2d topdown pixel rpg art
+
 morrowind dice rolling system
 mount&blade political system and world events
 top down (not to sure if we use arrow keys or WASD)
